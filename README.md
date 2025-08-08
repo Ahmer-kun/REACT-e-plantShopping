@@ -4,10 +4,10 @@ Welcome to E-commerce website, where green meets serenity! This project is a sma
 
 
 
-![Project Screenshot](/src/assets/Page 1.png)
-![Project Screenshot](/src/assets/Page 2.png)
-![Project Screenshot](/src/assets/Page 3.png)
-![Project Screenshot](/src/assets/Page 4.png)
+![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
+![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
+![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
+![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
 <p align="center">
   <img src="/assets/Page 1.png" width="600" alt="Lading Page" />
   <img src="/assets/Page 2.png" width="600" alt="Page Header" />
