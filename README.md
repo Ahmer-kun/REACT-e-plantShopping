@@ -4,7 +4,10 @@ Welcome to E-commerce website, where green meets serenity! This project is a sma
 
 
 
-```html
+![Project Screenshot](assets/Page 1.png)
+![Project Screenshot](assets/Page 2.png)
+![Project Screenshot](assets/Page 3.png)
+![Project Screenshot](assets/Page 4.png)
 <p align="center">
   <img src="/assets/Page 1.png" width="600" alt="Lading Page" />
   <img src="/assets/Page 2.png" width="600" alt="Page Header" />
