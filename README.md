@@ -6,11 +6,11 @@ Welcome to E-commerce website, where green meets serenity! This project is a sma
 
 ```html
 <p align="center">
-  <img src="/src/assets/Page 1.png" width="600" alt="Lading Page" />
-  <img src="/src/assets/Page 2.png" width="600" alt="Page Header" />
-  <img src="/src/assets/Page 3" width="600" alt="Plant Details" />
-<img src="/src/assets/Page 4" width="600" alt="Other Elements" />
-  
+  <img src="/assets/Page 1.png" width="600" alt="Lading Page" />
+  <img src="/assets/Page 2.png" width="600" alt="Page Header" />
+  <img src="/assets/Page 3" width="600" alt="Plant Details" />
+  <img src="/assets/Page 4" width="600" alt="Other Elements" />
+   
 </p>
 
 ## 🚀 Live Demo
