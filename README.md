@@ -1,6 +1,16 @@
-# E-commerce Website 🌱
+### 🌱 Paradise Nursery {e-plantShopping}
 
-Welcome to E-commerce website, where green meets serenity! This project is a small e-commerce website built using **React** as part of my learning journey in **Full-Stack Development** with IBM. The website is now live on **GitHub Pages** and showcases a variety of plants that can be purchased online.
+<p align="center">
+  <img src="assets/plantshop_preview.png" width="700" alt="E-Plant Shopping Screenshot">
+</p>
+
+**Description:** E-commerce React website where green meets serenity!  
+**Tech Stack:** React, Redux Toolkit, Vite, CSS Modules, GitHub Pages  
+🔗 [GitHub Repo](https://github.com/Ahmer-kun/REACT-e-plantShopping)  
+🌐 [Live Demo](https://ahmer-kun.github.io/REACT-e-plantShopping/)  
+**Status:** 🟡 In Progress  
+> 📌 Note: Currently encountering error in `main.jsx`.
+
 
 ## Screenshot
 ![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
