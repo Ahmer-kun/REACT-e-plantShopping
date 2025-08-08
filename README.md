@@ -2,19 +2,12 @@
 
 Welcome to E-commerce website, where green meets serenity! This project is a small e-commerce website built using **React** as part of my learning journey in **Full-Stack Development** with IBM. The website is now live on **GitHub Pages** and showcases a variety of plants that can be purchased online.
 
+## Screenshot
+![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
+![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%202.jpg)
+![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%203.jpg)
+![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%204.jpg)
 
-
-![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
-![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
-![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
-![Project Screenshot](https://github.com/Ahmer-kun/REACT-e-plantShopping/blob/main/src/assets/Page%201.jpg)
-<p align="center">
-  <img src="/assets/Page 1.png" width="600" alt="Lading Page" />
-  <img src="/assets/Page 2.png" width="600" alt="Page Header" />
-  <img src="/assets/Page 3" width="600" alt="Plant Details" />
-  <img src="/assets/Page 4" width="600" alt="Other Elements" />
-   
-</p>
 
 ## 🚀 Live Demo
 
